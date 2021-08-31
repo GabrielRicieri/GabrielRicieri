@@ -40,6 +40,6 @@ I'm studying the 8th period of information systems currently working as a full-s
   <a href = "gabrielricieri134@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-ricieri-192585197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/gabrielricieri/gabrielricieri/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gGabrielRicieri/GabrielRicieri/blob/output/github-contribution-grid-snake.svg)
  
 </div>
